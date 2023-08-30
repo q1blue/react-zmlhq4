@@ -1,0 +1,18 @@
+body {
+  margin: 40px;
+}
+
+.wj-flexgrid {
+  width: auto;
+  max-height: 350px;
+  margin: 10px 0;
+}
+
+.wj-flexgrid .wj-cell a{
+  text-decoration: none;
+}
+
+.Child, .grid{
+  display: flex;
+  flex-direction: column;
+}
