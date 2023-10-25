@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "@grapecity/wijmo.grid": "5.20231.888",
+    "@grapecity/wijmo.grid": "5.20231.904",
     "@grapecity/wijmo.grid.cellmaker": "5.20231.888",
     "@grapecity/wijmo.grid.filter": "5.20231.888",
     "@grapecity/wijmo.grid.search": "5.20231.888",
